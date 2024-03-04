@@ -1,5 +1,8 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) to explore the [`Clerk Authentication`](https://clerk.com). I also use `Google Gemini` LLM for a basic chat with AI.
 
+![App UI](ui.png)
+
+
 ## Getting Started
 Get Your Google Gemini Key from https://aistudio.google.com/app/u/2/apikey
 
